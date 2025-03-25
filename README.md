@@ -52,7 +52,7 @@
 ##
 <p align="right">
   <span>
-    <a href="mailto:julian12tomcc01@gmail.com?subject=Hello%20UserName"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25" /></a>
+    <a href="mailto:julian12tomcc01@gmail.com?Subject=Desde%20github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25" /></a>
     <a href="https://www.linkedin.com/in/joaquin-molina-918771200/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" /></a>
   </span>
 </p>
