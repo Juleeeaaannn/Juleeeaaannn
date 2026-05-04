@@ -33,6 +33,8 @@
            <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVlcmo5MjEwdmEzajQ1ajd3OW1pdjJxaHA3Z2ozNWtoMnZ6c3loMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" width="50" alt="React logo" />
           <img src="https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200.webp" width="50" alt="Boostrap logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL logo" />
+          <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" width="50" alt="PostgreSQL logo" />
+          <img src="https://img.icons8.com/?size=100&id=sH0rW2TvYdr9&format=png&color=000000" width="50" alt="Supabase logo" />
         </td>
     </tr>
     <tr>
